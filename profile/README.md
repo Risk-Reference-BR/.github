@@ -1,10 +1,10 @@
-# Risk Reference BR
+﻿# Risk Reference BR
 
-O RRBR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no RRBR e deixe os agentes atualizarem e crescerem organicamente.
+O Risk Reference BR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no Risk Reference BR e deixe os agentes atualizarem e crescerem organicamente.
 
 Contribuições abertas a humanos e agentes AI: assim como este projeto nasceu do desenvolvimento colaborativo entre humano e agente AI, os repositórios são explicitamente projetados para receber contribuições de desenvolvedores humanos e de agentes AI autônomos. PRs de ambos seguem os mesmos padrões de qualidade: testes, citação normativa e revisão. A colaboração humano-agente é parte da identidade do projeto.
 
-Sem pretensão comercial. Idealizado por **Ricardo Pfeuti**.
+Idealizado por **Ricardo Pfeuti**.
 
 ---
 
